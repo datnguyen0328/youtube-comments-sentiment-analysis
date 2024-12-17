@@ -18,10 +18,10 @@ Extracted useful features such as comment length, average word length, or word c
 Used advanced text representations like TF-IDF (Term Frequency-Inverse Document Frequency) to convert comments into numerical vectors.
 - **Model Training**:
 Trained various machine learning models (such as Logistic Regression, Naive Bayes, and Random Forest) to classify comments based on sentiment.
-Also implemented deep learning models like LSTM (Long Short-Term Memory) for more accurate text classification.
+Also implemented deep learning models like RoBERTa for more accurate text classification.
 - **Evaluation**:
 Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 Visualized the results with confusion matrices and classification reports.
 
 
-- youtube api key: AIzaSyAAwY-uPy6XUHBh0cV1u4yHPTyYzxskNgI
+<!-- - youtube api key: AIzaSyAAwY-uPy6XUHBh0cV1u4yHPTyYzxskNgI -->
